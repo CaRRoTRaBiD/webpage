@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Per Östberg
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th February 1976
     - name: Languages
-      value: English, German
+      value: English, Swedish, German (proficient)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Finance
+      institution: Stockholm School of Economics, Stockholm, Sweden
+      year: 2005
       description:
         - Description 1.
         - Description 2.
