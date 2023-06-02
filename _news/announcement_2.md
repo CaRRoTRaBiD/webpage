@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2023-06-05 15:59:00-0400
+inline: true
 related_posts: false
 ---
 
-"Difference-in-differences with Economic Factors and the Case of Housing Returns" presented at NHH in Bergen
+
+"Difference-in-differences with Economic Factors and the Case of Housing Returns" presented at the SFI workshop in Gerzensee.
