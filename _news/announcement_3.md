@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting at the IAAE at BI in Oslo.
+Presenting "Difference-in-differences with Economic Factors and the Case of Housing Returns" at the IAAE at BI in Oslo.
