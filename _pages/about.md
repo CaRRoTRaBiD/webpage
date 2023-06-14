@@ -7,7 +7,8 @@ profile:
   image: business-background-1-DSC_5519.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>PLM H323 </p>
+    <p> +41 44 634 29 56<p>
+    <p> PLM H323</p>
     <p>Plattenstrasse 14</p>
     <p>Zurich</p>
 
