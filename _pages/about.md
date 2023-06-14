@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: [University of Zurich Department of Banking and Finance](https://www.bf.uzh.ch) and [Swiss Finance Institute](https://www.sfi.ch/en/).
-
 profile:
   align: right
   image: business-background-1-DSC_5519.jpg
@@ -18,6 +16,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+[University of Zurich Department of Banking and Finance](https://www.bf.uzh.ch) and [Swiss Finance Institute](https://www.sfi.ch/en/).
 
 I am an associate professor of finance at the University of Zurich. My current research interests include corporate finance and causal inference.   
 
