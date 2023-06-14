@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Zurich Department of Banking and Finance</a> and <a href='#'>Swiss Finance Institute.</a>
+subtitle: [University of Zurich Department of Banking and Finance](https://www.bf.uzh.ch) and [Swiss Finance Institute](https://www.sfi.ch/en/).
 
 profile:
   align: right
