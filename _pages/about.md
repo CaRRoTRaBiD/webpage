@@ -16,9 +16,8 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-[University of Zurich Department of Banking and Finance](https://www.bf.uzh.ch) and [Swiss Finance Institute](https://www.sfi.ch/en/).
 
-I am an associate professor of finance at the University of Zurich. My current research interests include corporate finance and causal inference.   
+I am an associate professor of finance at the [department of finance](https://www.bf.uzh.ch) of the [University of Zurich](https://www.bf.uzh.ch). My current research interests include corporate finance and causal inference.   
 
 Among other things, I teach Empirical Corporate Finance, Advanced Empirical Finance and Takeovers Restructuring and Corporate Governance at the University of Zurich. I did my PhD at the Stockholm School of Economics.
 
