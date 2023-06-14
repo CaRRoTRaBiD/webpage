@@ -24,6 +24,3 @@ I am an associate professor of finance at the University of Zurich. My current r
 Among other things, I teach Empirical Corporate Finance, Advanced Empirical Finance and Takeovers Restructuring and Corporate Governance at the University of Zurich. I did my PhD at the Stockholm School of Economics.
 
 My integration into Swiss society includes hiking, skiing and beginner(!) climbing.
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
