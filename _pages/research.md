@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Working papers and publications with links. My SSRN is here!
+description: Working papers and publications with links. My SSRN page is here!
 nav: true
 nav_order: 1
 ---
