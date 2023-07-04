@@ -10,10 +10,10 @@ nav_order: 1
 <div class="publications">
 
 <h2>Working Papers</h2>
-{% bibliography -f '_bibliography/working.bib' %}
+{% bibliography -f working.bib %}
 
 <h2>Papers</h2>
-{% bibliography -f '_bibliography/papers.bib' %}
+{% bibliography -f papers.bib %}
 
 <h2>Conferences</h2>
 ...
