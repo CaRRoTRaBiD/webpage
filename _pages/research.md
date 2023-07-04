@@ -15,7 +15,4 @@ nav_order: 1
 <h2>Papers</h2>
 {% bibliography -f papers.bib %}
 
-<h2>Conferences</h2>
-...
-
 </div>
