@@ -2,11 +2,11 @@
 layout: page
 permalink: /research/
 title: research
-description: Working papers and publications with links.
+description:
 nav: true
 nav_order: 1
 ---
-Working papers and publications with links. My SSRN page is [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=433778)!
+ Working papers and publications with links. Working papers and publications with links. My SSRN page is [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=433778)!
 <!-- _pages/research.md -->
 <div class="publications">
 
