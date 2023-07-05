@@ -16,24 +16,19 @@
       year: 2005
       description:
         - Corporate Disclosure and Investor Recognition
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Professor of Finance
+      institution: Department of Banking and Finance, Uniersity of Zurich
+      year: 2017 - 2023
+    - title: Assistant Professor of Finance  
+      year: 2010 - 2017
+      institution: Department of Banking and Finance, Uniersity of Zurich
+     - title: Associate Professor of Finance
+     year: 2008 - 2011
+     institution: Norwegian School of Economics
       description:
         - Description 1.
         - Description 2.
