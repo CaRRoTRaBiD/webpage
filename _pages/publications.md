@@ -10,6 +10,13 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+<h2>Working Papers</h2>
+{% bibliography -f working.bib %}
+
+<h2>Papers</h2>
+{% bibliography -f papers.bib %}
+
+<h2>Conferences</h2>
+...
 
 </div>
