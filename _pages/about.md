@@ -4,7 +4,7 @@ title: Home
 permalink: /
 profile:
   align: right
-  image: business-background-1-DSC_5519.jpg
+  image: per_uzh.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> +41 44 634 29 56<p>
