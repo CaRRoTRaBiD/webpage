@@ -1,0 +1,31 @@
+<div style="position:relative; margin: 1.5rem 0; border-radius: 6px; overflow:hidden; background:#000;">
+  <img id="mtn-img" src="/webpage/assets/img/mountains/mountain_1.jpg" style="width:100%; max-height:480px; object-fit:cover; display:block;">
+  <button id="mtn-prev" style="position:absolute; left:0; top:0; height:100%; width:48px; background:rgba(0,0,0,0.4); border:none; color:#fff; font-size:2rem; cursor:pointer; line-height:1;">&#8249;</button>
+  <button id="mtn-next" style="position:absolute; right:0; top:0; height:100%; width:48px; background:rgba(0,0,0,0.4); border:none; color:#fff; font-size:2rem; cursor:pointer; line-height:1;">&#8250;</button>
+  <div style="position:absolute; bottom:8px; width:100%; text-align:center; color:rgba(255,255,255,0.7); font-size:0.8rem;"><span id="mtn-counter">1 / 10</span></div>
+</div>
+
+<script>
+(function () {
+  var photos = [
+    "/webpage/assets/img/mountains/mountain_1.jpg",
+    "/webpage/assets/img/mountains/mountain_2.jpg",
+    "/webpage/assets/img/mountains/mountain_3.jpg",
+    "/webpage/assets/img/mountains/mountain_4.jpg",
+    "/webpage/assets/img/mountains/mountain_5.jpg",
+    "/webpage/assets/img/mountains/mountain_6.jpg",
+    "/webpage/assets/img/mountains/mountain_7.jpg",
+    "/webpage/assets/img/mountains/mountain_8.jpg",
+    "/webpage/assets/img/mountains/mountain_9.jpg",
+    "/webpage/assets/img/mountains/mountain_10.jpg"
+  ];
+  var idx = 0;
+  function show(n) {
+    idx = (n + photos.length) % photos.length;
+    document.getElementById("mtn-img").src = photos[idx];
+    document.getElementById("mtn-counter").textContent = (idx + 1) + " / " + photos.length;
+  }
+  document.getElementById("mtn-prev").addEventListener("click", function () { show(idx - 1); });
+  document.getElementById("mtn-next").addEventListener("click", function () { show(idx + 1); });
+})();
+</script>
