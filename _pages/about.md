@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an associate professor of finance and vice head of the [department of finance](https://www.bf.uzh.ch) at the [University of Zurich](https://www.uzh.ch), where I also serve as program director of the [Master in Finance](https://www.df.uzh.ch/en/studies/bachelor-master/master/ma-banking-finance.html) and sit on the board of the Finance Executive Education program. I am a [Swiss Finance Institute](https://www.sfi.ch/en) faculty member and associate editor at the [Journal of Empirical Finance](https://www.sciencedirect.com/journal/journal-of-empirical-finance).
+I am an associate professor of finance and vice head of the [department of finance](https://www.bf.uzh.ch) at the [University of Zurich](https://www.uzh.ch), where I also serve as program director of the [Master in Finance](https://www.df.uzh.ch/en/studies/bachelor-master/master/ma-banking-finance.html) and sit on the board of the [Finance Executive Education](https://www.finance-weiterbildung.uzh.ch/en.html) program. I am a [Swiss Finance Institute](https://www.sfi.ch/en) faculty member and associate editor at the [Journal of Empirical Finance](https://www.sciencedirect.com/journal/journal-of-empirical-finance).
 
 My current research interests lie in the intersection of corporate finance and causal inference. Among other things, I teach Empirical Corporate Finance, Advanced Empirical Finance and Takeovers Restructuring and Corporate Governance at the University of Zurich. I did my PhD at the [Stockholm School of Economics](https://www.hhs.se).
 
