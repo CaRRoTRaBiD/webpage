@@ -18,16 +18,47 @@ nav_order: 3
 
 My integration into Swiss society includes hiking, skiing, and somewhat reluctant beginner-level climbing.
 
-<div class="row mt-3 mb-3">
-  <div class="col-sm-4">
-    <img src="/webpage/assets/img/barrhorn.jpg" class="img-fluid rounded z-depth-1" alt="Barrhorn summit">
+<div id="mountainCarousel" class="carousel slide mt-3 mb-3" data-bs-ride="false">
+  <div class="carousel-inner rounded z-depth-1">
+    <div class="carousel-item active">
+      <img src="/webpage/assets/img/mountains/mountain_1.jpg" class="d-block w-100" alt="Mountain 1" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_2.jpg" class="d-block w-100" alt="Mountain 2" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_3.jpg" class="d-block w-100" alt="Mountain 3" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_4.jpg" class="d-block w-100" alt="Mountain 4" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_5.jpg" class="d-block w-100" alt="Mountain 5" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_6.jpg" class="d-block w-100" alt="Mountain 6" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_7.jpg" class="d-block w-100" alt="Mountain 7" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_8.jpg" class="d-block w-100" alt="Mountain 8" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_9.jpg" class="d-block w-100" alt="Mountain 9" style="max-height:480px; object-fit:cover;">
+    </div>
+    <div class="carousel-item">
+      <img src="/webpage/assets/img/mountains/mountain_10.jpg" class="d-block w-100" alt="Mountain 10" style="max-height:480px; object-fit:cover;">
+    </div>
   </div>
-  <div class="col-sm-4">
-    <img src="/webpage/assets/img/bielbi_summit.jpg" class="img-fluid rounded z-depth-1" alt="Summit above the clouds">
-  </div>
-  <div class="col-sm-4">
-    <img src="/webpage/assets/img/mountain_dawn.jpg" class="img-fluid rounded z-depth-1" alt="Mountain valley at dawn">
-  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#mountainCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#mountainCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>
 
 Current dependents:
