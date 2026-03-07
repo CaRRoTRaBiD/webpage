@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 profile:
   align: left
-  image: per_uzh.jpg
+  image:
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
@@ -17,6 +17,8 @@ nav_order: 3
 ---
 
 My integration into Swiss society includes hiking, skiing, and somewhat reluctant beginner-level climbing.
+
+Some of the glory of Switzerland:
 
 {% include mountain_slideshow.html %}
 
