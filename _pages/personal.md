@@ -51,11 +51,11 @@ My integration into Swiss society includes hiking, skiing, and somewhat reluctan
       <img src="/webpage/assets/img/mountains/mountain_10.jpg" class="d-block w-100" alt="Mountain 10" style="max-height:480px; object-fit:cover;">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#mountainCarousel" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#mountainCarousel" data-bs-slide="prev" style="width:48px; background:rgba(0,0,0,0.45); border-radius:0 4px 4px 0;">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#mountainCarousel" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#mountainCarousel" data-bs-slide="next" style="width:48px; background:rgba(0,0,0,0.45); border-radius:4px 0 0 4px;">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
@@ -71,5 +71,7 @@ Current dependents:
     <img src="/webpage/assets/img/dog_peak.jpg" class="img-fluid rounded z-depth-1" alt="Dog on mountain peak">
   </div>
 </div>
+
+<div class="clearfix"></div>
 
 Coauthors: [Jiyuan Huang](https://huang-justin.com/), [Thomas Richter](https://www.zhaw.ch/de/ueber-uns/person/rico), [Yuanyuan Gao](https://www.df.uzh.ch/en/people/phd-candidates/yuanyuan-gao.html), [Hans Hvide](https://sites.google.com/site/hanshvide/home), [Andriy Bodnaruk](https://business.uic.edu/profiles/andriy-bodnaruk/)
