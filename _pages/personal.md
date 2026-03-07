@@ -20,16 +20,9 @@ My integration into Swiss society includes hiking, skiing, and somewhat reluctan
 
 {% include mountain_slideshow.html %}
 
-Current dependents:
+The dependent / treat demander:
 
-<div class="row mt-3 mb-3">
-  <div class="col-sm-6">
-    <img src="/webpage/assets/img/dog_sunset.jpg" class="img-fluid rounded z-depth-1" alt="Dog watching the sunset">
-  </div>
-  <div class="col-sm-6">
-    <img src="/webpage/assets/img/dog_peak.jpg" class="img-fluid rounded z-depth-1" alt="Dog on mountain peak">
-  </div>
-</div>
+{% include dependent_slideshow.html %}
 
 <div class="clearfix"></div>
 
