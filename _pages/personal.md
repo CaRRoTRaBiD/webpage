@@ -16,7 +16,7 @@ nav: true
 nav_order: 3
 ---
 
-My integration into Swiss society includes hiking, skiing and beginner(!) climbing.
+My integration into Swiss society includes hiking, skiing, and somewhat reluctant beginner-level climbing.
 
 MOUNTAINS; SKIING
 
