@@ -18,7 +18,7 @@ nav_order: 3
 
 My integration into Swiss society includes hiking, skiing, and somewhat reluctant beginner-level climbing.
 
-<div id="mountainCarousel" class="carousel slide mt-3 mb-3" data-bs-ride="false">
+<div id="mountainCarousel" class="carousel slide mt-3 mb-3">
   <div class="carousel-inner rounded z-depth-1">
     <div class="carousel-item active">
       <img src="/webpage/assets/img/mountains/mountain_1.jpg" class="d-block w-100" alt="Mountain 1" style="max-height:480px; object-fit:cover;">
@@ -71,6 +71,15 @@ Current dependents:
     <img src="/webpage/assets/img/dog_peak.jpg" class="img-fluid rounded z-depth-1" alt="Dog on mountain peak">
   </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var el = document.getElementById("mountainCarousel");
+  if (el && typeof bootstrap !== "undefined") {
+    new bootstrap.Carousel(el, { ride: false, wrap: true });
+  }
+});
+</script>
 
 <div class="clearfix"></div>
 
