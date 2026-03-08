@@ -34,9 +34,6 @@
       year: 2017 - now
       description:
         - Swiss Finance Institute faculty member
-        - Vice Head of the Department of Finance
-        - Program Director, Master in Finance
-        - Associate Editor, Journal of Empirical Finance
     - title: Assistant Professor of Finance
       institution: University of Zurich, Zurich, Switzerland
       year: 2010 - 2017
@@ -67,6 +64,28 @@
     - title: "\"Disclosure, Investment and Regulation\""
       year: 2006
       description: "Journal of Financial Intermediation, 15, 285–306. Lead Article."
+
+- title: Professional Activities
+  type: nested_list
+  contents:
+    - title: Editorial
+      items:
+        - "Associate Editor, <a href='https://www.sciencedirect.com/journal/journal-of-empirical-finance'>Journal of Empirical Finance</a>"
+        - Grant reviewer, Swiss National Science Foundation (SNSF)
+    - title: Departmental and University Service (UZH)
+      items:
+        - Vice Head, Department of Finance (2021 – present)
+        - Program Director, Master in Finance (2020 – present)
+        - Board member, Finance Executive Education (2021 – present)
+        - Co-head of the PhD program (2014 – 2018)
+        - Member, PhD student recruiting committee (2012 – present)
+    - title: Conference Program Committees (selected)
+      items:
+        - European Winter Finance Summit (chair 2016, co-chair 2014, member 2011–2022)
+        - European Finance Association (2009–2015)
+        - International Finance and Banking Society (2015)
+        - GRASFI, Zurich (2022)
+        - SFI PhD Workshop, Zurich (2016)
 
 - title: Grants
   type: time_table
