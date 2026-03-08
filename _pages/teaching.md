@@ -20,8 +20,4 @@ nav_order: 2
 
 ## Other Past Teaching
 
-<div class="publications">
-{% bibliography -f courses_past.bib %}
-</div>
-
-Also taught: CFA Investment Challenge, Advanced Corporate Finance I, Empirical Finance.
+I have broad teaching experience spanning corporate finance, asset pricing, and empirical methods. At UZH apart from the listed courses above I have taught Advanced Empirical Finance, Advanced Corporate Finance I, and the CFA Investment Challenge. Earlier in my career at the Norwegian School of Economics I taught corporate finance and Cases in Corporate Finance.
