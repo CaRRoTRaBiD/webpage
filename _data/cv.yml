@@ -13,12 +13,9 @@
       institution: Stockholm School of Economics, Stockholm, Sweden
       year: 2005
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - "Thesis: Disclosure and Investor Recognition"
+        - "Main advisor: <a href='https://www.lse.ac.uk/people/mike-burkart'>Mike Burkart</a>"
+        - "Co-advisor: <a href='https://sites.google.com/site/tellingsensse/'>Tore Ellingsen</a>"
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
