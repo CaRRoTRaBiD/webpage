@@ -25,3 +25,7 @@ My current research interests lie in the intersection of corporate finance, caus
 Check out the links for more information about the [master in finance](https://www.df.uzh.ch/en/studies/bachelor-master/master/ma-banking-finance.html), the [master in quantitative finance](https://www.df.uzh.ch/en/studies/bachelor-master/master/msc-quantitative-finance.html) and our [phd program](https://www.df.uzh.ch/en/studies/phd.html).
 
 My integration into Swiss society includes hiking, skiing and beginner(!) climbing.
+
+Coauthors: [Jiyuan Huang](https://huang-justin.com/), [Thomas Richter](https://www.zhaw.ch/de/ueber-uns/person/rico), [Yuanyuan Gao](https://www.df.uzh.ch/en/people/phd-candidates/yuanyuan-gao.html), [Hans Hvide](https://sites.google.com/site/hanshvide/home), [Andriy Bodnaruk](https://business.uic.edu/profiles/andriy-bodnaruk/)
+
+Co-teachers: [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/home), [Zacharias Sautner](https://sites.google.com/view/zachariassautner), [Mathias Hoffmann](https://mathiashoffmann.net/)

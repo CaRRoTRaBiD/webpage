@@ -27,7 +27,3 @@ The dependent / treat demander:
 {% include dependent_slideshow.html %}
 
 <div class="clearfix"></div>
-
-Coauthors: [Jiyuan Huang](https://huang-justin.com/), [Thomas Richter](https://www.zhaw.ch/de/ueber-uns/person/rico), [Yuanyuan Gao](https://www.df.uzh.ch/en/people/phd-candidates/yuanyuan-gao.html), [Hans Hvide](https://sites.google.com/site/hanshvide/home), [Andriy Bodnaruk](https://business.uic.edu/profiles/andriy-bodnaruk/)
-
-Co-teachers: [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/home), [Zacharias Sautner](https://sites.google.com/view/zachariassautner), [Mathias Hoffmann](https://mathiashoffmann.net/)
