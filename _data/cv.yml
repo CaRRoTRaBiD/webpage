@@ -49,6 +49,25 @@
       institution: Norwegian School of Economics, Bergen, Norway
       year: 2005 - 2008
 
+- title: Publications
+  type: time_table
+  contents:
+    - title: "\"Social Interaction at Work\" (with Hans K. Hvide)"
+      year: 2015
+      description: "Journal of Financial Economics, 117, 628–652."
+    - title: "\"Money and Liquidity in Financial Markets\" (with Kjell G. Nyborg)"
+      year: 2014
+      description: "Journal of Financial Economics, 112, 30–52."
+    - title: "\"The Shareholder Base and Payout Policy\" (with Andriy Bodnaruk)"
+      year: 2013
+      description: "Journal of Financial and Quantitative Analysis, 48, 729–760."
+    - title: "\"Does Investor Recognition Predict Returns?\" (with Andriy Bodnaruk)"
+      year: 2009
+      description: "Journal of Financial Economics, 91, 202–226."
+    - title: "\"Disclosure, Investment and Regulation\""
+      year: 2006
+      description: "Journal of Financial Intermediation, 15, 285–306. Lead Article."
+
 - title: Grants
   type: time_table
   contents:
