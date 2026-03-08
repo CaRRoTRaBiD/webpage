@@ -17,3 +17,9 @@ nav_order: 2
 <div class="publications">
 {% bibliography -f courses_master.bib %}
 </div>
+
+## Other Past Teaching
+
+<div class="publications">
+{% bibliography -f courses_past.bib %}
+</div>
