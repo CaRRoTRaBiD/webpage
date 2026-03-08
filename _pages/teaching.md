@@ -23,3 +23,5 @@ nav_order: 2
 <div class="publications">
 {% bibliography -f courses_past.bib %}
 </div>
+
+Also taught: CFA Investment Challenge, Advanced Corporate Finance I, Empirical Finance.
