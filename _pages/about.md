@@ -22,4 +22,6 @@ I am an associate professor of finance and vice head of the [department of finan
 
 My current research interests lie in the intersection of corporate finance, causal inference and household finance. Among other things, I teach [Empirical Corporate Finance](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2025/004/SM/50674904), [Advanced Financial Economics](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2025/004/SM/51144539) and [Takeovers Restructuring and Corporate Governance](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html?sap-language=DE&sap-ui-language=DE#/details/2025/004/SM/51110747) at the University of Zurich. I did my PhD at the [Stockholm School of Economics](https://www.hhs.se).
 
+Check out the links for more information about the [master in finance](https://www.df.uzh.ch/en/studies/bachelor-master/master/ma-banking-finance.html), the [master in quantitative finance](https://www.df.uzh.ch/en/studies/bachelor-master/master/msc-quantitative-finance.html) and our [phd program](https://www.df.uzh.ch/en/studies/phd.html).
+
 My integration into Swiss society includes hiking, skiing and beginner(!) climbing.
